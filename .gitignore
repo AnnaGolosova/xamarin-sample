@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ListViewSample/v15
+/Droid/bin/Debug
+/Droid/obj
+/Droid/Resources
+/iOS/bin/iPhoneSimulator/Debug
+/iOS/obj/iPhoneSimulator/Debug
+/ListViewSample/bin/Debug
+/ListViewSample/obj/Debug
+/packages
+/UITest/bin/Debug/netcoreapp2.1
+/UITest/obj
