@@ -7,8 +7,8 @@
 /Droid/obj
 /iOS/bin/iPhoneSimulator/Debug
 /iOS/obj/iPhoneSimulator/Debug
-/ListViewSample/bin/Debug
 /ListViewSample/obj/Debug
 /packages
 /UITest/bin/Debug/netcoreapp2.1
 /UITest/obj
+/UITest
